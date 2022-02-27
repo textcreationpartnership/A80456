@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of a letter from a principall person in Paris, in answer to one received from his friend in England, touching the estate of the present affaires: and his opinion.</title>
+            <author>Principall Person in Paris.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80456</idno>
+            <idno type="STC">Wing C6117</idno>
+            <idno type="STC">Thomason E398_29</idno>
+            <idno type="STC">ESTC R201705</idno>
+            <idno type="EEBO-CITATION">99862205</idno>
+            <idno type="PROQUEST">99862205</idno>
+            <idno type="VID">114356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114356)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E398[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of a letter from a principall person in Paris, in answer to one received from his friend in England, touching the estate of the present affaires: and his opinion.</title>
+                  <author>Principall Person in Paris.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Imprinted in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated: July 1 1647.</note>
+                  <note>Annotation on Thomason copy: "July 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114356:1" rendition="simple:additions"/>
+            <p>A COPIE OF A LETTER FROM A Principall Perſon in PARIS, In anſwer to one received from his friend in ENGLAND, touching the eſtate of the preſent affaires: And his opinion.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>July 17</add> Imprinted in the yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114356:2"/>
+            <pb n="1" facs="tcp:114356:2"/>
+            <head>A Copy of a Letter from a principall perſon in <hi>Paris,</hi> in anſwer to one re<g ref="char:EOLhyphen"/>ceived from his friend in <hi>England,</hi> touch<g ref="char:EOLhyphen"/>ing the eſtate of the preſent affaires, and his opinion.</head>
+            <opener>
+               <dateline>
+                  <date>July1. 1647.</date>
+               </dateline>
+               <lb/>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Thanke you for your advertiſements of the Affaires of <hi>England</hi> by the laſt Poſt, and whereas you deſire my Opinion of them, and what I conceive may be the iſſue; It is yet very early dayes to make my judgement of the ſucceſſe, which is like to depend upon the future management and purſuit of them; for certainely this great turne by the Army may produce great good and happineſſe to the Kingdome, by ſetling a firme and well conditioned Peace, if it be really and cordially their intentions as they profeſſe, and I am apt to beleeve it is; for as they ſeeme to be men led much by their Conſcience, ſo there muſt be this right done unto them, that they have been very exact in point of their reputation, to have the Articles and Capitulations of their Trea<g ref="char:EOLhyphen"/>ties upon the rendring of places to be punctually performed; and have heretofore ſhowne a great ſence and diſlike at the Houſes vio<g ref="char:EOLhyphen"/>lation of them, and doe now inſiſt to have them juſtly performed, and the former breaches of them to be repaired, which ſheweth them to be people of truth, and of juſt dealing; and likewiſe to have honour in recommendation: if, I ſay, their intentions be
+<pb n="2" facs="tcp:114356:3"/>
+the ſame which they yet pretend, which is a ſettlement of the peace of the Kingdome, (which uſeth not to be of the Souldiers Trade) God may make them the inſtruments of great bleſſings unto their Country, even to be Deliverers of it, not onely from the Sword, and Warre, but from the mercileſſe Government of thoſe, who under the ſhelter of their Power and Conqueſt, had uſurped over them and the whole Kingdome an abſolute Arby<g ref="char:EOLhyphen"/>trary Dominion, limited by no Lawes nor bounds, but by their owne wills, and at ſuch a time when no humane prudence could tell from whence to looke for deliverance, which God hath now raiſed up and begun by them, and probably may be effected by them, if they hold themſelves to their profeſſed integrity, ſet private intereſts in the laſt place, and purſue theſe their begin<g ref="char:EOLhyphen"/>nings with that wiſedome and expedition which truly by their former Actions may well be expected from them in this: But if they ſhall pretend one thing, and intend another, and make the uſuall ſpecious ſhewes of Liberty and Reformation, onely as the approaches to their Intereſts, Ambition, or Faction; my feares are that they will prove a Torrent quickly dryed up, and will in<g ref="char:EOLhyphen"/>volve this Kingdome againe in many great miſeries, and a new effuſion of Blood, and themſelves in few moneths be reduced to a very ſad condition; whereas (if ſuch be Gods Will) they may probably be the Inſtruments of ſetling our happineſſe in very few dayes, and without the ſpilling of one drop of blood; the way whereof which occurreth unto me is briefly this; That they ſend preſently unto his Majeſty honeſt and equitable Conditions, but ſuch as may give unto the Kingdome good ſatisfaction, both in point of their ancient Liberties and Priviledges, and his Majeſties new Conceſſions, with ſuch inlargements as ſhall be thought fit; that not onely an Act of Oblivion and generall Pardon be agreed on, but ſuch further ſecurity as after ſo great provocations un<g ref="char:EOLhyphen"/>derſtanding people will expect, by the way of the ſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling the <hi>Militia</hi> for ſome time, and ſome other neceſſary proviſions. That the King declaring his willingneſſe to condeſcend to what is pro<g ref="char:EOLhyphen"/>pounded unto him, and giving his Royall Word for the perfor<g ref="char:EOLhyphen"/>mance thereof, they immediatly carry the King to <hi>London,</hi> that he may be in the condition of a Free man, for that all that he doth under actuall reſtraint will be of no validity. There let all
+<pb n="5" facs="tcp:114356:3"/>
+particulars be debated and ſetled, and then let the Accuſation of the Army be agitated, as likewiſe all other things that will require time for the debate and ſe ling of them; As for the Lawes of the Land, the Kings Revenue, and the right of the Crowne, all ſuch as he doth not limit or paſſe away, will of courſe returne into their wonted Channell.</p>
+            <p>The King will be (there, as well as at <hi>Newmarket</hi>) under their pro<g ref="char:EOLhyphen"/>tection; But by this meanes the Kings power, that of the Houſes of Parliament, and City of <hi>London,</hi> being all united, will pre<g ref="char:EOLhyphen"/>ſently recover a generall reverence and obedience; Whereas on the other ſide, if there ſhall be any delay made in this ſettlement and conjunction of Powers, and time ſhall be ſpent in particular debates, betwixt the Army and the King, or the Army and the Houſes, and things remaine in ſuſpenſe; The Houſes, which the Army muſt now judge their Enemies, and all that they do for their preſent ſatisfaction, is but in compliance with them, and by conſtraint, in regard of their preſent danger, and otherwiſe not reconcileable, having declared their Government Tyrannicall; and demanded that many of their leading Members ſhall be cal<g ref="char:EOLhyphen"/>led into judgement, and be ſequeſtred (ſo high at breach of Pri<g ref="char:EOLhyphen"/>viledge, that when the King onely deſired that ſome of them might be legally proceeded againſt by the courſe of Juſtice, they withſtood it, and voted it the higheſt breach of Priviledge that had been offered to Parliaments.) If theſe diſtractions ſhall hin<g ref="char:EOLhyphen"/>der their conjunction, the Army will daily ſinke in reputation, the Presbyterian Party will have time to gather courage, and to fit thoſe places of ſtrength, and the Navy which hold for them, and the King and his Party perhaps confiding in neither, will ſuſ<g ref="char:EOLhyphen"/>ſpend their choyce; unto which Party it will be fit, in wiſdome to adhere.</p>
+            <p>In the meane time the Kingdome of <hi>Scotland,</hi> with thoſe ſpeci<g ref="char:EOLhyphen"/>ous Arguments which they will have of upholding their Cove<g ref="char:EOLhyphen"/>nant which both <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ingdomes are ſworne unto, and the freeing of the perſon of their Native King, ſurprized by a mutinous Army, and held priſoner by them, as is publikely declared, with<g ref="char:EOLhyphen"/>out his former conſent, or preſent approbation, will arme to a man, to returne into <hi>England,</hi> where they have been ſo well paid for their comming in, and their returne bought at ſo high a
+<pb n="4" facs="tcp:114356:4"/>
+price. And to this purpoſe (if we be not here miſ-informed in <hi>Paris</hi>) they have already voted the whole ſtrength of their King<g ref="char:EOLhyphen"/>dome to be put preſently in a readineſſe, which they here affirme ſhall be of twenty thouſand Foot, and ſix thouſand Horſe, within a ſhort time to be ready to march. And in this quarrell they are there very confident, that my Lord of <hi>Mentroſſe,</hi> and all the Kings Party in <hi>Scotland,</hi> will moſt readily joyne with them; in<g ref="char:EOLhyphen"/>ſomuch that it is in debate, if it be not further proceeded in, That the Prince be invited to come into <hi>Scotland,</hi> and to be Ge<g ref="char:EOLhyphen"/>nerall of their Army, to reſcue his father out of the hands of the Army that have ſurprized him, and holdeth him under re<g ref="char:EOLhyphen"/>ſtraint, and have forced the Parliament. And if you will have my opinion, it is, That if the Army proceed not ſpeedily to unite the King and the City, and the Parliament (being purged or renewed in ſuch ſort as the Scots may not be invited in, and then the Counties may unitedly joyne againſt the Scots, if they ſhall invade this Kingdome, the Scots will prevaile, or at leaſt a more bloody Warre will be revived, then that which we ho<g ref="char:EOLhyphen"/>ped had been ended. So that laying aſide whatſoever may be ſaid againſt the Army, for the ſeizing of the Kings Perſon, and declaring againſt the Houſe, or againſt the Houſes, for their aſſuming of abſolute power, and uſing of it arbitrarily againſt all Law, without any Limits but their owne will; or againſt the Kings ſtiffneſſe, in not yeelding to thoſe things which he judg<g ref="char:EOLhyphen"/>eth againſt his Honour and Conſcience. If the Army (in whom the meanes is onely now to do it,) ſhall not preſently eſtabliſh the King, moderate the Houſes, cauſe the City intirely to joyne; The united power of the Kingdome of <hi>Scotland,</hi> with the adhe<g ref="char:EOLhyphen"/>rent party of their Covenanters, will bring in ſpeedily more mi<g ref="char:EOLhyphen"/>ſeries upon the Kingdome of <hi>England,</hi> then what it hath hithero ſuffered. As for the Shieres and Provinces of <hi>England,</hi> if the above<g ref="char:EOLhyphen"/>ſaid union be once ſetled, there ſhall not need any great induſtry to unite them againſt the comming in of the Scots.</p>
+            <p>Thus (to ſatisfie your requeſt) I have (in more haſte then ſuch a buſineſſe requireth) ſet downe my opinion, or rather conje<g ref="char:EOLhyphen"/>cture, of the eſtate of the preſent affaires, which is, That if the Army proceed prudently, moderately, and ſpeedily, in the ſet<g ref="char:EOLhyphen"/>tlement of them, they will procure a great deliverance to their
+<pb n="5" facs="tcp:114356:4"/>
+Country; But if they goe ſtaggeringly to worke, and ſpend the time in particular debates, or matters of intereſt, be<g ref="char:EOLhyphen"/>fore they have ſetled the generall, they will be but addi<g ref="char:EOLhyphen"/>tions to our former miſeries, and the cauſers of their owne ruine in the end, ſpecially if this preſent Parliament remaine in being. For if it recover Power and Autho<g ref="char:EOLhyphen"/>rity, the Army can never be ſecured; for whatſoever the Houſes ſhall doe by Ordinances for their indempnity, which is the higheſt ſecurity they can give, will by them bee revocable every morning, and they will judge all pro<g ref="char:EOLhyphen"/>miſes or policies that have been uſed for the diſperſing of a mutinous Army very juſtifiable for them to do, and pu<g ref="char:EOLhyphen"/>niſh afterward. So that the ſafety of the Army can conſiſt in nothing but in the diſſolving of the Parliament. Beſides for the firme ſetling of all things that ſhall be agreed with the King, there will be a neceſſity of having a new and un<g ref="char:EOLhyphen"/>queſtionable Parliament: For certainly the wiſdome of a State, for the confirmation of ſo great advantages and im<g ref="char:EOLhyphen"/>munities as they hope to obtaine from the King, will not relye upon the ſecurity of a Parliament, againſt which ſo much hath been objected, as that the King and Peers have been driven away by force and Tumults, and the Tumults and other proceedings have cauſed the freedome of it to be often queſtioned, which is the very eſſence and being of Parliaments. That the Members of the lower Houſe doe fit by two ſeverall ſorts of Writs inconſiſtent together, ſome by the Kings Great Seale which is Voted downe, the other by their new Great Seale, which ſome of the former Judges and great Lawyers have heretofore, affirmed to be Treaſon to make, by the Statute of the 25. of <hi>Edw.</hi> 3. And now the Army having ſo declared againſt them for breach of Truſt, and uſurping an Arbitrary and Tyrannicall power; All which ſuggeſtions, although they ſhould not amount to the making of an invalidity in their proceeding; yet certainely that which doth ſo highly concerne the King<g ref="char:EOLhyphen"/>dome in point of Peace, and the firme ſettlement for all future times of ſo many important things betwixt the King and Subject, as Pardon and Indempnity, and many other
+<pb n="6" facs="tcp:114356:5"/>
+immunities ought to be by ſo cleare, and ſo unqueſtionable ſecurity, that neither for the preſent, nor in future times any ſcruple or doubt could be raiſed concerning it, which made our wiſe Brethren the <hi>Scots</hi> not admit that the great advantages and liberties which they obtained of the King ſhould be ſetled in that Parliament, when the King firſt agreed unto them, becauſe they conceived in regard of the Army, and ſome other diſtractions, that Parlia<g ref="char:EOLhyphen"/>ment might in future times be held dubious and queſtio<g ref="char:EOLhyphen"/>nable; and therefore having agreed the Articles, and got<g ref="char:EOLhyphen"/>ten them ſigned by the King, they diſſolved that queſtio<g ref="char:EOLhyphen"/>nable Parliament, and obtained of the King that a new Parliament (againſt whoſe validity no doubt or ſcruple could be raiſed) ſhould (within few dayes after the diſ<g ref="char:EOLhyphen"/>ſolution of the former) be aſſembled, as it was; and all their Priviledges, and the Acts which they deſired, were paſſed in that new Parliament. And it is to be conceived, that it will be likewiſe held neceſſary for <hi>England</hi> in this occaſion to follow their example. And ſo, &amp;c.</p>
+            <closer>
+               <dateline>Paris,
+<date>July 1. 11. 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
